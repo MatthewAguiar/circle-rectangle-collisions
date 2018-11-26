@@ -7,6 +7,4 @@ class Shape
     this.y = y;
     this.color = color;
   }
-
-  
 }
